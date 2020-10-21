@@ -7,3 +7,5 @@ Simply download the repo or clone the branch and open using your preferred IDE.
 Once added to you IDE, using the terminal/console/command prompt, run using python -i main.py.
 
 To terminate, simply follow the on-screen instructions (type quit to exit the app, quit() to exit the python console.)
+
+![](demo.gif)
